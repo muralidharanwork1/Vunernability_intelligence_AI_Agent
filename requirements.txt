@@ -1,0 +1,6 @@
+SimplerLLM
+python-dotenv
+requests
+feedparser
+schedule
+gradio
